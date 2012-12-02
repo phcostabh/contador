@@ -1,0 +1,21 @@
+[submodule "deps/redis"]
+	path = deps/redis
+	url = git://github.com/antirez/redis.git
+[submodule "deps/nginx"]
+	path = deps/nginx
+	url = git://github.com/nginx/nginx.git
+[submodule "deps/luajit-2.0"]
+	path = deps/luajit-2.0
+	url = http://luajit.org/git/luajit-2.0.git
+[submodule "deps/ngx_devel_kit"]
+	path = deps/ngx_devel_kit
+	url = git://github.com/simpl/ngx_devel_kit.git
+[submodule "deps/lua-nginx-module"]
+	path = deps/lua-nginx-module
+	url = git://github.com/chaoslawful/lua-nginx-module.git
+[submodule "redis2-nginx-module"]
+	path = deps/redis2-nginx-module
+	url = git://github.com/agentzh/redis2-nginx-module.git
+[submodule "deps/set-misc-nginx-module"]
+	path = deps/set-misc-nginx-module
+	url = git://github.com/agentzh/set-misc-nginx-module.git
