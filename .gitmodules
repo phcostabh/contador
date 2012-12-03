@@ -13,9 +13,9 @@
 [submodule "deps/lua-nginx-module"]
 	path = deps/lua-nginx-module
 	url = git://github.com/chaoslawful/lua-nginx-module.git
-[submodule "redis2-nginx-module"]
-	path = deps/redis2-nginx-module
-	url = git://github.com/agentzh/redis2-nginx-module.git
 [submodule "deps/set-misc-nginx-module"]
 	path = deps/set-misc-nginx-module
 	url = git://github.com/agentzh/set-misc-nginx-module.git
+[submodule "deps/redis2-nginx-module"]
+	path = deps/redis2-nginx-module
+	url = git://github.com/agentzh/redis2-nginx-module.git
